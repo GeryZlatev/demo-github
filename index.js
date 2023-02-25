@@ -4,3 +4,4 @@ function greeting (name) {
 
 greeting("Gergana");
 greeting("Stamat");
+greeting("Gogo");
